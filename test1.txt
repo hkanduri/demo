@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0ADA-A4C9
+
+ Directory of C:\Users\sandy\Documents\testf
+
+10/28/2018  05:59 AM    <DIR>          .
+10/28/2018  05:59 AM    <DIR>          ..
+10/28/2018  05:59 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)     245,800,960 bytes free
